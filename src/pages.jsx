@@ -108,15 +108,6 @@ export function Home() {
       </section>
 
       <section className="section">
-        <SectionHead title="Areas of Interest" eyebrow="Data · Discovery" />
-        <div className="row-list">
-          {ARTICLES.map((a, i) => (
-            <Reveal key={a.title} delay={i * 60}><ArticleRow a={a} /></Reveal>
-          ))}
-        </div>
-      </section>
-
-      <section className="section">
         <SectionHead title="Leadership & Community" eyebrow="People · Purpose · Progress" />
         <Reveal>
           <div className="vol-panel">
