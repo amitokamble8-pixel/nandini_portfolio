@@ -7,7 +7,7 @@ export const PROFILE = {
   first: "Nandini",
   last: "Bhasin",
   fullName: "Nandini Bhasin",
-  tagline: "Turning Code into Understanding • Computer Science, AI, Data Science & Economics",
+  tagline: "Turning Code into Understanding",
   location: "Pune, India",
   email: "",
   phone: "",
@@ -40,7 +40,6 @@ export const NAV = [
     children: [
       { label: "Programs & Experience", to: "/work" },
       { label: "Projects", to: "/projects" },
-      { label: "Areas of Interest", to: "/publications" },
     ],
   },
 
@@ -237,11 +236,6 @@ export const VOLUNTEER = {
     { value: "3", label: "Organisations Served" },
   ],
   orgs: [
-    {
-      name: "Go Girl Organisation",
-      role: "Coding, AI & Digital Skills Educator · Since 2026",
-      desc: "Introduce girls from underserved communities across India to coding, AI literacy, and digital skills. Began with the Punjab chapter before expanding into online initiatives with schools and NGOs, teaching students from Classes 6 to 10 and designing curriculum material covering HTML, JavaScript, and AI. Teaching students encountering programming for the first time has meant learning to explain concepts clearly, recognise when a learner needs a different approach, and create an environment where asking questions feels natural.",
-    },
     {
       name: "Santulan Bhavan — My SEWA Promise",
       role: "Community Service Volunteer · 2023",
