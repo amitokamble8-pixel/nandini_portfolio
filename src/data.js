@@ -96,7 +96,7 @@ export const EXPERIENCE = [
 export const PROJECTS = [
   {
     name: "Programming for Financial Markets",
-    org: "Girls Who Code — Summer Immersion Program",
+    org: "Honartek",
     meta: "2024",
     desc: "Explored JavaScript and HTML while learning programming concepts connected to financial markets, sparking an interest in applying computer science beyond conventional software development.",
     tags: ["JavaScript", "HTML", "Financial Markets"],
